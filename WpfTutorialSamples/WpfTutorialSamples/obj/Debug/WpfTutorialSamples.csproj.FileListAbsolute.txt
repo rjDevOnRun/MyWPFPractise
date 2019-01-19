@@ -1,0 +1,4 @@
+C:\Users\cadman\AppData\Local\Temporary Projects\WpfTutorialSamples\bin\Debug\WpfTutorialSamples.exe.config
+C:\Users\cadman\AppData\Local\Temporary Projects\WpfTutorialSamples\bin\Debug\WPF_Application.exe.config
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\WpfTutorialSamples\bin\Debug\WpfTutorialSamples.exe.config
+D:\DEVELOPMENT\Visual_C\My_WPF_Practise\WPFPractise\WpfTutorialSamples\WpfTutorialSamples\bin\Debug\WpfTutorialSamples.exe.config

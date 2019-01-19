@@ -1,0 +1,13 @@
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\WpfTutorialSamples\bin\Release\WpfTutorialSamples.exe.config
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\WpfTutorialSamples\bin\Release\WpfTutorialSamples.exe
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\WpfTutorialSamples\bin\Release\WpfTutorialSamples.pdb
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\WpfTutorialSamples\obj\Release\WpfTutorialSamples.csprojResolveAssemblyReference.cache
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\WpfTutorialSamples\obj\Release\MainWindow.baml
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\WpfTutorialSamples\obj\Release\MainWindow.g.cs
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\WpfTutorialSamples\obj\Release\App.g.cs
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\WpfTutorialSamples\obj\Release\WpfTutorialSamples_MarkupCompile.cache
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\WpfTutorialSamples\obj\Release\WpfTutorialSamples.g.resources
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\WpfTutorialSamples\obj\Release\WpfTutorialSamples.Properties.Resources.resources
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\WpfTutorialSamples\obj\Release\WpfTutorialSamples.csproj.GenerateResource.Cache
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\WpfTutorialSamples\obj\Release\WpfTutorialSamples.exe
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\WpfTutorialSamples\obj\Release\WpfTutorialSamples.pdb

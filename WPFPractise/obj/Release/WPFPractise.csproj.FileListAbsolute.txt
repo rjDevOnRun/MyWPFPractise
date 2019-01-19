@@ -1,0 +1,13 @@
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WPFPractise\obj\Release\MainWindow.baml
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WPFPractise\obj\Release\MainWindow.g.cs
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WPFPractise\obj\Release\App.g.cs
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WPFPractise\obj\Release\WPFPractise_MarkupCompile.cache
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WPFPractise\obj\Release\WPFPractise.g.resources
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WPFPractise\obj\Release\WPFPractise.Properties.Resources.resources
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WPFPractise\obj\Release\WPFPractise.csproj.GenerateResource.Cache
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WPFPractise\bin\Release\WPFPractise.exe.config
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WPFPractise\bin\Release\WPFPractise.exe
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WPFPractise\bin\Release\WPFPractise.pdb
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WPFPractise\obj\Release\WPFPractise.exe
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WPFPractise\obj\Release\WPFPractise.pdb
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WPFPractise\obj\Release\WPFPractise.csprojResolveAssemblyReference.cache

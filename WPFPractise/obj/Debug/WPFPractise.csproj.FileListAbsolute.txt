@@ -1,0 +1,27 @@
+C:\Users\cadman\AppData\Local\Temporary Projects\WPFPractise\bin\Debug\WPFPractise.exe.config
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WPFPractise\bin\Debug\WPFPractise.exe.config
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WPFPractise\obj\Debug\WPFPractise.csprojResolveAssemblyReference.cache
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WPFPractise\obj\Debug\MainWindow.baml
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WPFPractise\obj\Debug\MainWindow.g.cs
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WPFPractise\obj\Debug\App.g.cs
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WPFPractise\obj\Debug\WPFPractise_MarkupCompile.cache
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WPFPractise\obj\Debug\WPFPractise.g.resources
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WPFPractise\obj\Debug\WPFPractise.Properties.Resources.resources
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WPFPractise\obj\Debug\WPFPractise.csproj.GenerateResource.Cache
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WPFPractise\bin\Debug\WPFPractise.exe
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WPFPractise\bin\Debug\WPFPractise.pdb
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WPFPractise\obj\Debug\WPFPractise.exe
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WPFPractise\obj\Debug\WPFPractise.pdb
+D:\DEVELOPMENT\Visual_C\My_WPF_Practise\WPFPractise\WPFPractise\bin\Debug\WPFPractise.exe.config
+D:\DEVELOPMENT\Visual_C\My_WPF_Practise\WPFPractise\WPFPractise\obj\Debug\WPFPractise.pdb
+D:\DEVELOPMENT\Visual_C\My_WPF_Practise\WPFPractise\WPFPractise\bin\Debug\WPFPractise.exe
+D:\DEVELOPMENT\Visual_C\My_WPF_Practise\WPFPractise\WPFPractise\bin\Debug\WPFPractise.pdb
+D:\DEVELOPMENT\Visual_C\My_WPF_Practise\WPFPractise\WPFPractise\obj\Debug\WPFPractise.csprojResolveAssemblyReference.cache
+D:\DEVELOPMENT\Visual_C\My_WPF_Practise\WPFPractise\WPFPractise\obj\Debug\MainWindow.baml
+D:\DEVELOPMENT\Visual_C\My_WPF_Practise\WPFPractise\WPFPractise\obj\Debug\MainWindow.g.cs
+D:\DEVELOPMENT\Visual_C\My_WPF_Practise\WPFPractise\WPFPractise\obj\Debug\App.g.cs
+D:\DEVELOPMENT\Visual_C\My_WPF_Practise\WPFPractise\WPFPractise\obj\Debug\WPFPractise_MarkupCompile.cache
+D:\DEVELOPMENT\Visual_C\My_WPF_Practise\WPFPractise\WPFPractise\obj\Debug\WPFPractise.g.resources
+D:\DEVELOPMENT\Visual_C\My_WPF_Practise\WPFPractise\WPFPractise\obj\Debug\WPFPractise.Properties.Resources.resources
+D:\DEVELOPMENT\Visual_C\My_WPF_Practise\WPFPractise\WPFPractise\obj\Debug\WPFPractise.csproj.GenerateResource.Cache
+D:\DEVELOPMENT\Visual_C\My_WPF_Practise\WPFPractise\WPFPractise\obj\Debug\WPFPractise.exe

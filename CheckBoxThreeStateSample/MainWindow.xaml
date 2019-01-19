@@ -1,0 +1,16 @@
+﻿<Window x:Class="CheckBoxThreeStateSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="170" Width="300">
+    <StackPanel Margin="10">
+        <Label FontWeight="Bold">Application Option</Label>
+        <StackPanel Margin="10,5">
+            <CheckBox IsThreeState="True" Name="cbAllFeatures" Checked="cbAllFeature_CheckedChanged" Unchecked="cbAllFeature_CheckedChanged">Enable All</CheckBox>
+            <StackPanel Margin="10">
+                <CheckBox Name="cbFeatureAbc" Checked="cbFeature_CheckedChanged" Unchecked="cbFeature_CheckedChanged">Enable All</CheckBox>
+                <CheckBox Name="cbFeatureXyz" IsChecked="True" Checked="cbFeature_CheckedChanged" Unchecked="cbFeature_CheckedChanged">Enable Feature XYZ</CheckBox>
+                <CheckBox Name="cbFeatureWWW" Checked="cbFeature_CheckedChanged" Unchecked="cbFeature_CheckedChanged">Enable Feature WWW</CheckBox>
+            </StackPanel>
+        </StackPanel>
+    </StackPanel>
+</Window>

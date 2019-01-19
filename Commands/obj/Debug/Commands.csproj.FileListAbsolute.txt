@@ -1,0 +1,16 @@
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\Commands\bin\Debug\Commands.exe.config
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\Commands\obj\Debug\MainWindow.g.cs
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\Commands\obj\Debug\App.g.cs
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\Commands\obj\Debug\Commands_MarkupCompile.cache
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\Commands\obj\Debug\Commands_MarkupCompile.lref
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\Commands\bin\Debug\Commands.exe
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\Commands\bin\Debug\Commands.pdb
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\Commands\obj\Debug\MainWindow.baml
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\Commands\obj\Debug\Commands.g.resources
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\Commands\obj\Debug\WpfTutorialSamples.Commands.Properties.Resources.resources
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\Commands\obj\Debug\Commands.csproj.GenerateResource.Cache
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\Commands\obj\Debug\Commands.exe
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\Commands\obj\Debug\Commands.pdb
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\Commands\obj\Debug\Commands.csprojResolveAssemblyReference.cache
+D:\DEVELOPMENT\Visual_C\My_WPF_Practise\WPFPractise\WpfTutorialSamples\Commands\bin\Debug\Commands.exe.config
+D:\DEVELOPMENT\Visual_C\My_WPF_Practise\WPFPractise\WpfTutorialSamples\Commands\obj\Debug\Commands.pdb

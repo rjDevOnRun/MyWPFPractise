@@ -1,0 +1,6 @@
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\CustomCommandSample\obj\Release\CustomCommandSample.csprojResolveAssemblyReference.cache
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\CustomCommandSample\obj\Release\MainWindow.g.cs
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\CustomCommandSample\obj\Release\App.g.cs
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\CustomCommandSample\obj\Release\CustomCommandSample_MarkupCompile.cache
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\CustomCommandSample\obj\Release\CustomCommandSample_MarkupCompile.lref
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\CustomCommandSample\bin\Release\CustomCommandSample.exe.config

@@ -1,0 +1,13 @@
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\CheckBoxThreeStateSample\obj\Debug\CheckBoxThreeStateSample.csprojResolveAssemblyReference.cache
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\CheckBoxThreeStateSample\obj\Debug\MainWindow.baml
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\CheckBoxThreeStateSample\obj\Debug\MainWindow.g.cs
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\CheckBoxThreeStateSample\obj\Debug\App.g.cs
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\CheckBoxThreeStateSample\obj\Debug\CheckBoxThreeStateSample_MarkupCompile.cache
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\CheckBoxThreeStateSample\obj\Debug\CheckBoxThreeStateSample.g.resources
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\CheckBoxThreeStateSample\obj\Debug\CheckBoxThreeStateSample.Properties.Resources.resources
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\CheckBoxThreeStateSample\obj\Debug\CheckBoxThreeStateSample.csproj.GenerateResource.Cache
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\CheckBoxThreeStateSample\bin\Debug\CheckBoxThreeStateSample.exe.config
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\CheckBoxThreeStateSample\bin\Debug\CheckBoxThreeStateSample.exe
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\CheckBoxThreeStateSample\bin\Debug\CheckBoxThreeStateSample.pdb
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\CheckBoxThreeStateSample\obj\Debug\CheckBoxThreeStateSample.exe
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\CheckBoxThreeStateSample\obj\Debug\CheckBoxThreeStateSample.pdb

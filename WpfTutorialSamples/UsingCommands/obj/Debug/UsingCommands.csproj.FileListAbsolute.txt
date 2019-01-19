@@ -1,0 +1,13 @@
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\UsingCommands\bin\Debug\UsingCommands.exe.config
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\UsingCommands\bin\Debug\UsingCommands.exe
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\UsingCommands\bin\Debug\UsingCommands.pdb
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\UsingCommands\obj\Debug\UsingCommands.csprojResolveAssemblyReference.cache
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\UsingCommands\obj\Debug\MainWindow.baml
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\UsingCommands\obj\Debug\MainWindow.g.cs
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\UsingCommands\obj\Debug\App.g.cs
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\UsingCommands\obj\Debug\UsingCommands_MarkupCompile.cache
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\UsingCommands\obj\Debug\UsingCommands.g.resources
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\UsingCommands\obj\Debug\UsingCommands.Properties.Resources.resources
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\UsingCommands\obj\Debug\UsingCommands.csproj.GenerateResource.Cache
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\UsingCommands\obj\Debug\UsingCommands.exe
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\UsingCommands\obj\Debug\UsingCommands.pdb

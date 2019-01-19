@@ -1,0 +1,14 @@
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\bin\Release\MyCommands.exe.config
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\bin\Release\MyCommands.exe
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\bin\Release\MyCommands.pdb
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\obj\Release\MyCommands.baml
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\obj\Release\MyCommands.g.cs
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\obj\Release\App.g.cs
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\obj\Release\MyCommands_MarkupCompile.cache
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\obj\Release\MyCommands.g.resources
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\obj\Release\MyCommands.csproj.GenerateResource.Cache
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\obj\Release\MyCommands.exe
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\obj\Release\MyCommands.pdb
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\obj\Release\MyCommands_MarkupCompile.lref
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\obj\Release\MyCommands.csprojResolveAssemblyReference.cache
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\obj\Release\WfpTutorialSamples.MainCommand.Properties.Resources.resources

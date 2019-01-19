@@ -1,0 +1,17 @@
+C:\Users\cadman\AppData\Local\Temporary Projects\MyCommands\bin\Debug\MyCommands.exe.config
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\bin\Debug\MyCommands.exe.config
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\bin\Debug\MyCommands.exe
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\bin\Debug\MyCommands.pdb
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\obj\Debug\MyCommands.baml
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\obj\Debug\MyCommands.g.cs
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\obj\Debug\App.g.cs
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\obj\Debug\MyCommands_MarkupCompile.cache
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\obj\Debug\MyCommands.g.resources
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\obj\Debug\MyCommands.csproj.GenerateResource.Cache
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\obj\Debug\MyCommands.exe
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\obj\Debug\MyCommands.pdb
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\obj\Debug\MyCommands_MarkupCompile.lref
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\MyCommands\MyCommands\obj\Debug\WfpTutorialSamples.MainCommand.Properties.Resources.resources
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\MyCommands\MyCommands\bin\Debug\MyCommands.exe.config
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\MyCommands\MyCommands\obj\Debug\MyCommands.exe
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\WpfTutorialSamples\MyCommands\MyCommands\obj\Debug\MyCommands.pdb

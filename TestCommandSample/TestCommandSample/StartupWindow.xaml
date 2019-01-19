@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfTutorialSamples.TestCommandSample.StartupWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:my="clr-namespace:WpfTutorialSamples.TestCommandSample.Commands"
+        Title="MainWindow" Height="150" Width="225">
+    
+    <Window.CommandBindings>
+        <CommandBinding Command="my:CustomTestCommand.DoCommand" 
+                        CanExecute="DoCommand_CanExecute"
+                        Executed="DoCommand_Executed"/>
+    </Window.CommandBindings>
+    
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBox Name="txtCheck" Margin="0 0 0 10" Width="130"/>
+            <Button Name="btnCommand" Command="my:CustomTestCommand.DoCommand" Width="80">Test Command</Button>
+        </StackPanel>
+    </Grid>
+</Window>

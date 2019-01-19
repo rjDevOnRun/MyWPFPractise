@@ -1,0 +1,14 @@
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\TestCommandSample\TestCommandSample\obj\Release\TestCommandSample.csprojResolveAssemblyReference.cache
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\TestCommandSample\TestCommandSample\obj\Release\App.g.cs
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\TestCommandSample\TestCommandSample\obj\Release\TestCommandSample_MarkupCompile.cache
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\TestCommandSample\TestCommandSample\obj\Release\TestCommandSample.g.resources
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\TestCommandSample\TestCommandSample\obj\Release\WpfTutorialSamples.TestCommandSample.Properties.Resources.resources
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\TestCommandSample\TestCommandSample\obj\Release\TestCommandSample.csproj.GenerateResource.Cache
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\TestCommandSample\TestCommandSample\obj\Release\StartupWindow.baml
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\TestCommandSample\TestCommandSample\obj\Release\StartupWindow.g.cs
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\TestCommandSample\TestCommandSample\bin\Release\TestCommandSample.exe.config
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\TestCommandSample\TestCommandSample\bin\Release\TestCommandSample.exe
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\TestCommandSample\TestCommandSample\bin\Release\TestCommandSample.pdb
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\TestCommandSample\TestCommandSample\obj\Release\TestCommandSample.exe
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\TestCommandSample\TestCommandSample\obj\Release\TestCommandSample.pdb
+D:\AUTOMATIONS\Tutorials\C#\WPFPractise\TestCommandSample\TestCommandSample\obj\Release\TestCommandSample_MarkupCompile.lref
